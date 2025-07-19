@@ -35,9 +35,6 @@ ENV/
 .DS_Store
 
 # Project specific
-Attendance/*.csv
-StudentDetails/*.csv
-TrainingImage/*
 !TrainingImage/.gitkeep
 TrainingImageLabel/*
 !TrainingImageLabel/.gitkeep
